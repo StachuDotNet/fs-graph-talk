@@ -1,3 +1,8 @@
+## Abandonment notice:
+
+I'm in the process of refactoring life, and am no longer pursuing this talk at this time.
+(studying chemistry and woodworking has mostly taken over my spare time)
+
 # fs-graph-talk
 
 The purpose of this repo is to contain the research notes, organization, and code relevant to a(n in-progress) talk around "F# + Graphs."
